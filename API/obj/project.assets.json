@@ -5802,11 +5802,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Henry\\Documents\\cursoEnero-Junio\\Backend\\codigo\\Tarea1\\API\\API.csproj",
+      "projectUniqueName": "C:\\Users\\Henry\\Documents\\cursoEnero-Junio\\Backend\\codigo\\Tarea1\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "c:\\Users\\Henry\\Documents\\cursoEnero-Junio\\Backend\\codigo\\Tarea1\\API\\API.csproj",
+      "projectPath": "C:\\Users\\Henry\\Documents\\cursoEnero-Junio\\Backend\\codigo\\Tarea1\\API\\API.csproj",
       "packagesPath": "C:\\Users\\Henry\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Henry\\Documents\\cursoEnero-Junio\\Backend\\codigo\\Tarea1\\API\\obj\\",
+      "outputPath": "C:\\Users\\Henry\\Documents\\cursoEnero-Junio\\Backend\\codigo\\Tarea1\\API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Henry\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -5863,7 +5863,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
       }
     }
   }
